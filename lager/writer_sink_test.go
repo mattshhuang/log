@@ -4,7 +4,7 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/mattshhuang/lager"
+	"github.com/mattshhuang/log/lager"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
