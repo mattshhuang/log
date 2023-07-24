@@ -1,4 +1,4 @@
-[![go.dev Version](https://img.shields.io/badge/go.dev-v1.0-blue)](https://pkg.go.dev/github.com/mattshhuang/log@v1.0)
+[![go.dev Version](https://img.shields.io/badge/go.dev-v1.0.1-blue)](https://pkg.go.dev/github.com/mattshhuang/log@v1.0.1)
 
 ## 简介（forked from [lexkong/log](https://github.com/lexkong/log)）
 
